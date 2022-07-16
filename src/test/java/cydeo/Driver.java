@@ -108,6 +108,7 @@ public class Driver {
         if (driver != null) {
             driver.quit();
             driver = null;
+            // add some note
         }
     }
 }
