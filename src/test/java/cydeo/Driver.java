@@ -109,6 +109,7 @@ public class Driver {
             driver.quit();
             driver = null;
             // add some note
+
         }
     }
 }
